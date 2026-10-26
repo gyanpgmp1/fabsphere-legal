@@ -1,0 +1,4 @@
+{
+  "server": "staging",
+  "note": "FabSphere app server. Change to \"production\" to move every installed app to the production ERP (takes effect the next time the app is opened). Only \"staging\" or \"production\" are accepted."
+}
